@@ -1,0 +1,3 @@
+Zeus Dragon KM-LD4-3200-16GHD, Kingmax, 3200, DDR3
+Radeon R7 Performance Series R748G2606U2S-UO, AMD, 2666, DDR2
+Ballistix BL8G26C16U4W", Crucial, 2400, DDR2

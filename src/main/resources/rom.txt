@@ -1,0 +1,3 @@
+WD Caviar Blue WD10EZEX, Western Digital, SATA3
+A2000 SA2000M8/250G, Kingston, SATA2
+A400 SA400S37/240G, Kingston, SATA3

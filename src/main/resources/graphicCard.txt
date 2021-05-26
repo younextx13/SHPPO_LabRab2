@@ -1,0 +1,3 @@
+GeForce GT 1030, MSI, PCI_E_V2
+GeForce GT 710, Gigabyte, PCI_E_V3
+GeForce GTX 1650 ti, Nvidia, PCI_E_V3
